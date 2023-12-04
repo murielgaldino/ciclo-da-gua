@@ -35,5 +35,7 @@ h1 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 100%;
+    object-fit: contain;
+    height: 300px;
 }
